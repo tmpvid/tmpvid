@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #121212; /* Fondo oscuro */
+    color: #ffffff; /* Texto claro */
+}
+
+input, button {
+    background-color: #333333; /* Fondo oscuro para inputs y botones */
+    color: #ffffff; /* Texto claro */
+    border: 1px solid #444444; /* Borde gris oscuro */
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #444444; /* Fondo ligeramente más claro al pasar el ratón */
+}
+
+video {
+    max-width: 100%;
+    margin-top: 20px;
+    border: 1px solid #444444; /* Borde gris oscuro para el video */
+}
